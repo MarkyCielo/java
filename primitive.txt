@@ -1,0 +1,17 @@
+public class Ceeloy {
+    public static void main(string[] args) {
+        int age = 17;
+        double pocket = 120;
+        Boolean goodstudent = yes;
+        char n = cielo;
+        byte weight = 58;
+        
+
+        System.out.println("age: "+ age);
+        System.out.println("pocket: "+ pocket);
+        System.out.println("goodstudent: "+ yes);
+        System.out.println("name: "+ name);
+        System.out.println("weight: "+ weight);
+    }
+        
+    }
